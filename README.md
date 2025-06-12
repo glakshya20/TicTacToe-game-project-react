@@ -11,7 +11,7 @@
 
 ```bash
 git clone https://github.com/glakshya20/TicTacToe-game-project-react.git
-cd your-repo-name
+cd TicTacToe-game-project-react
 npm install
 npm start
 
