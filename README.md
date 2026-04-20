@@ -32,7 +32,8 @@ Play against a friend, track moves, and enjoy a clean and responsive UI.
 
 ## 📸 Preview
 
-> Add screenshots or GIF here for better presentation
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be133b25-5287-43b7-b442-b232561fb6d3" />
+
 
 ---
 
@@ -75,7 +76,6 @@ Deployed using **Netlify**
 - 🤖 Add AI opponent (Minimax algorithm)
 - 🎨 Improved UI/animations
 - 📊 Game history tracking
-- 🌙 Dark mode
 - 🔊 Sound effects
 
 ---
